@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+It highlighted where the changes occured, making it easy to find what had gone wrong. insteed of having to look at the whole document I only had to look at the lines that changed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+You could reflect on what you did in the past, maybe even look at reoccuring errors. You may even relize latter on that you started heading down the wrong path.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+pros would be: You can save when logical ideas are completed so that the database has cronological sense that helps one gain insight from it.
+
+Cons would be: If you are forgetful about saving you may miss crucial information that should have been saved, if you don't save complete logical ideas you may end up with a useless database of saved information.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+In a lot of cases programes will be interconnected with objects from different classes, these will all belong to different files hence why it is important to track the individual changes occuring in each file. With Google docs the ideas represented in writting are individulsitc and so the changes only have to be saved in an indivgilistic way.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log will show the history of commits that have been made including the identification code of the version, it'll also include a note about what has been changed or updated. git diff is used to view what has changed between different versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+It would improve confidence as it allows one to easily revert back and to see the changes that are made.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Do some git push and pull requests for breadcrumbs
