@@ -15,9 +15,10 @@ How would branches help?
 branches would help by allowing one to experiment but to still easily have access to the working version by use of an easy reference name not a long ambigous line of letters and numbers.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams give a visual representation of the information flow between the git commits, it also helps make the definition of branches match relaity, it also gives light to the detached head comment when you git checkout a commit that isn't the master.  
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of a merge is a child that stores information from both parents, both branches converge into one and are sorted by the date and time that they were commited. We represent it in the diagrams that way so that it makes sense in regards to the way the information flows.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
