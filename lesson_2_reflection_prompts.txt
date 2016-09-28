@@ -9,8 +9,10 @@ The value it adds is the ability to not make changes or to make changes.
 How can you use the staging area to make sure you have one commit per logical change?
 you can load the staging area with the logical changes that you want to commit by using the git add command. This will ensure only the files added to the staging area will be commited. 
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? 
+Branches can help you keep changes orginised by allowing signifcant experimental changes to run down another path, this way there is always a stable build that can be used for presentation purposes.
+How would branches help?
+branches would help by allowing one to experiment but to still easily have access to the working version by use of an easy reference name not a long ambigous line of letters and numbers.
 
 How do the diagrams help you visualize the branch structure?
 
