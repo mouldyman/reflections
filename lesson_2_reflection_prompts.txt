@@ -20,5 +20,5 @@ The diagrams give a visual representation of the information flow between the gi
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of a merge is a child that stores information from both parents, both branches converge into one and are sorted by the date and time that they were commited. We represent it in the diagrams that way so that it makes sense in regards to the way the information flows.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+When there are no conflicting lines of code everything works perfectly. Only occasionally will two people work on the same part of a program so why sacrifice the effiecency when it's only required occasionally to do it the manual way
