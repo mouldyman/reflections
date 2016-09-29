@@ -18,8 +18,7 @@ having the last state of the remote stored locally is good as it allows one to t
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+without git or github one could use other systems like svs or dropbox or google drive, they could also manualy exchange files. unfortunatly with this system there would be so many files and no way to compare the changes that have been made.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
