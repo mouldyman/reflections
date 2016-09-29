@@ -14,8 +14,7 @@ A fork is a clone of a github repository that is saved to your github account, i
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+having the last state of the remote stored locally is good as it allows one to track their progress from the other collaboraters.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
