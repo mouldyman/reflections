@@ -22,5 +22,4 @@ without git or github one could use other systems like svs or dropbox or google 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+One would make changes on a seperate branch when they are working on a feature that is very experimental and prone to make the main app unstable. By using a different branch it allows a team to have a constent stable build and to then be able to make experimental changes, and if these work eventually they can be merged into the main branch.
